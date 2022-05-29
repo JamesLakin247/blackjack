@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    background-image: url("felt.jpeg");
+    background-size: cover;
+}
+
+.container {
+    background-image: url("images/felt.jpeg");
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    padding: 10px 20px;
+    margin: 10px auto;
+    background-image: url("images/felt.jpeg");
+}
